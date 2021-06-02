@@ -1,0 +1,10 @@
+D:\_CODING_projects\Kursova\Taksopark\Kurs_14_Taksopark\bin\Debug\netstandard2.0\Kurs_14_Taksopark.dll.config
+D:\_CODING_projects\Kursova\Taksopark\Kurs_14_Taksopark\bin\Debug\netstandard2.0\Kurs_14_Taksopark.deps.json
+D:\_CODING_projects\Kursova\Taksopark\Kurs_14_Taksopark\bin\Debug\netstandard2.0\Kurs_14_Taksopark.dll
+D:\_CODING_projects\Kursova\Taksopark\Kurs_14_Taksopark\bin\Debug\netstandard2.0\Kurs_14_Taksopark.pdb
+D:\_CODING_projects\Kursova\Taksopark\Kurs_14_Taksopark\obj\Debug\netstandard2.0\Kurs_14_Taksopark.AssemblyInfoInputs.cache
+D:\_CODING_projects\Kursova\Taksopark\Kurs_14_Taksopark\obj\Debug\netstandard2.0\Kurs_14_Taksopark.AssemblyInfo.cs
+D:\_CODING_projects\Kursova\Taksopark\Kurs_14_Taksopark\obj\Debug\netstandard2.0\Kurs_14_Taksopark.csproj.CoreCompileInputs.cache
+D:\_CODING_projects\Kursova\Taksopark\Kurs_14_Taksopark\obj\Debug\netstandard2.0\Kurs_14_Taksopark.dll
+D:\_CODING_projects\Kursova\Taksopark\Kurs_14_Taksopark\obj\Debug\netstandard2.0\Kurs_14_Taksopark.pdb
+D:\_CODING_projects\Kursova\Taksopark\Kurs_14_Taksopark\obj\Debug\netstandard2.0\Kurs_14_Taksopark.csprojAssemblyReference.cache
